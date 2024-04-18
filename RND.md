@@ -18,3 +18,4 @@ Youtube video I found to be Usefull
 
 update the python above 3.9
 
+python -m torch.distributed.run --nproc_per_node 1 example_chat_completion.py --ckpt_dir llama-2-7b-chat/ --"D:\imageToText\tokenizer.model" tokenizer.model --max_seq_len 512 --max_batch_size 6

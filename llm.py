@@ -1,7 +1,9 @@
 from llama_cpp import Llama
 
 Llama
+# modelpath = 
+llm = Llama(model_path="D:\imageToText\ tokenizer.model")
 
-llm = Llama(model_path=model_path)
+llm("what is llm?")
 
 
