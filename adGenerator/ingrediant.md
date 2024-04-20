@@ -1,0 +1,1 @@
+Makhya Satva" 25.00% wlw; Jasad Bhasma"Wwg Pudina Ark (Mentha arvensis Wh PU Extacly' 0508wj; Neem Oil (Azadirachta indica Seed OU)' O50kvmQTHER INGREDIENTS: Fragrance Dugdh Pashan(Shankhjarvffalc Purilied) as. 100.00% wfDOoK REFERENGE: 'Bhava Prakasha Nighantu; 'AyurvedaSara Sangraha; AryabhishakCOMPOSITIon: 5008
