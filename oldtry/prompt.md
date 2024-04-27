@@ -1,14 +1,6 @@
 **Prompt: give met the advantages and disadvantage of the above incredient in easy and very understandable formate with clear points**
 ```
-Makhya Satva" 25.00% wlw; Jasad Bhasma"
-Wwg Pudina Ark (Mentha arvensis Wh PU Extacly 0508
-wj; Neem Oil (Azadirachta indica Seed OU)' O50kvm
-QTHER INGREDIENTS: Fragrance Dugdh Pashan
-(Shankhjarvffalc Purified) as. 100.00% wf
-DOoK REFERENGE: 'Bhava Prakasha Nighantu; 'Ayurveda
-Sara Sangraha; Aryabhishak
-COMPOSITIon:
-5008 : Prompt: give met the advantages and disadvantage of the above incredient in easy and very understandable formate with clear points
+Makhya Satva" 25.00% wlw; Jasad Bhasma" Wwg Pudina Ark (Mentha arvensis Wh PU Extacly 0508 wj; Neem Oil (Azadirachta indica Seed OU)' O50kvm QTHER INGREDIENTS: Fragrance Dugdh Pashan(Shankhjarvffalc Purified) as. 100.00% wf DOoK REFERENGE: 'Bhava Prakasha Nighantu; 'Ayurveda Sara Sangraha; Aryabhishak COMPOSITIon: 5008 : Prompt: give met the advantages and disadvantage of the above incredient in easy and very understandable formate with clear points
 ```
 Certainly! Let's break down the advantages and disadvantages of the mentioned ingredients in a clear and understandable format:
 
@@ -47,3 +39,11 @@ Certainly! Let's break down the advantages and disadvantages of the mentioned in
 - **Quality:** Source and purity of ingredients can significantly impact the product's efficacy and safety.
 
 Understanding the advantages and disadvantages of each ingredient can help make informed decisions regarding their use and potential benefits.
+
+Your task is to evaluate the advantages and disadvantages of a set of ingredients commonly found in medicinal or cosmetic products. The product formulation may vary, but your analysis should focus on providing clear insights into the benefits and drawbacks of each ingredient. Your analysis will assist consumers in making informed decisions about product usage.
+
+Ingredients:
+
+Makhya Satva" 25.00% wlw; Jasad Bhasma"Wwg Pudina Ark (Mentha arvensis Wh PU Extacly' 0508wj; Neem Oil (Azadirachta indica Seed OU)' O50kvmQTHER INGREDIENTS: Fragrance Dugdh Pashan(Shankhjarvffalc Purilied) as. 100.00% wfDOoK REFERENGE: 'Bhava Prakasha Nighantu; 'AyurvedaSara Sangraha; AryabhishakCOMPOSITIon: 5008
+
+Your objective is to succinctly outline the advantages and disadvantages of each ingredient in a straightforward and comprehensible manner. Consider potential benefits, such as therapeutic properties or functional characteristics, as well as any drawbacks, including adverse effects or limitations. Additionally, emphasize any pertinent considerations for individuals using products containing these ingredients.

@@ -12,6 +12,10 @@ I found python Inbuilt liberaries
 Youtube video I found to be Usefull
  - https://youtu.be/C3-SkB1s9bs?si=mhUM5W1aDq4dNF80
 
+ **Data sets**
+ - https://data.world/craigkelly/usda-national-nutrient-db
+ 
+
 **Commands I used:**
 - pip install llama-cpp-python
 - pip install llama-index
